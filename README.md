@@ -133,7 +133,8 @@ Final validation performance:
 
 The F1 score around 0.77 with balanced precision and recall suggests the model is a reasonable first-pass filter for identifying disaster-related tweets.
 
-![GRU Model Architecture](https://github.com/user-attachments/assets/7c8170e2-28db-4d3e-a9f8-4c5c9a6e2e33)
+<img width="861" height="1083" alt="image" src="https://github.com/user-attachments/assets/d8dcb787-7fcf-431e-b7bb-1919b9eb416b" />
+
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PPVuIhWD9gtE8jfWusmGPdKWn5MpVS2m?usp=sharing)
 
